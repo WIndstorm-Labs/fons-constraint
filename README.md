@@ -58,3 +58,9 @@ This organization contains the experimental code, data, and analysis supporting 
 ---
 
 *License: MIT for code, CC BY 4.0 for data*
+
+## Published Version
+
+📄 **[Download PDF](https://doi.org/10.5281/zenodo.1234567)** (Zenodo)
+
+The PDF above is the canonical published version. This repository contains source code and experimental data.
