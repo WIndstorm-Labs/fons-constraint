@@ -40,7 +40,7 @@ See individual experiment scripts for runtime estimates and specific dependencie
 | 4 | [The Serial Decoding Basin τ](https://github.com/Windstorm-Institute/serial-decoding-basin) | [10.5281/zenodo.19323423](https://doi.org/10.5281/zenodo.19323423) |
 | 5 | [The Dissipative Decoder](https://github.com/Windstorm-Institute/dissipative-decoder) | [10.5281/zenodo.19433048](https://doi.org/10.5281/zenodo.19433048) |
 | 6 | [The Inherited Constraint](https://github.com/Windstorm-Institute/inherited-constraint) | [10.5281/zenodo.19432911](https://doi.org/10.5281/zenodo.19432911) |
-| 7 | [The Throughput Basin Origin](https://github.com/sneakyfree/agi-extensions) | [PDF](https://github.com/sneakyfree/agi-extensions/blob/main/paper/Paper7-Throughput-Basin-Origin-v1.2.pdf) (preprint) |
+| 7 | [The Throughput Basin Origin](https://github.com/Windstorm-Institute/throughput-basin-origin) | [PDF](https://github.com/Windstorm-Institute/throughput-basin-origin/blob/main/paper/Paper7-Throughput-Basin-Origin-v1.2.pdf) (preprint) |
 
 **Website:** [windstorminstitute.org](https://windstorminstitute.org)
 
