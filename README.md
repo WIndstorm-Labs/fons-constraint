@@ -19,7 +19,7 @@ This Labs repository is **paper-only** — the experimental code from Paper 1's 
 
 ## Hardware (when this paper's experiments were originally run)
 
-- **GPU:** NVIDIA RTX 5090 (32 GB VRAM)
+- **GPU:** Current-generation Nvidia GPU (32 GB VRAM, CUDA)
 - **OS:** Ubuntu 24.04
 - **Python:** 3.11+
 
